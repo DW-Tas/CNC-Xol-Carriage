@@ -21,7 +21,7 @@ A CNC version of the original Xol-Carriage that can be found in the Xol GitHub r
 
 * What is the smaller rectancular piece for? `That is a spacer to use for MGN9H carrages (unless installing on a printers for ants sized printer). If you don't need it on your printer it makes a cool keyring.`
 
-<br/>
+<img src='docs/images/Xol-Carriage.4.png' height=120 />
 
 ## Tips
 * If you're having trouble getting the pins down through the tubes and into the lower part of the pin slot, loosen the four screws that hold the CNC Xol Carriage to the MGN rail carriage. `This is particularly noticable when using thicker belts like EPDM or GT3 belts.`
