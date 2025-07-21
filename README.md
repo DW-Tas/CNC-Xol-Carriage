@@ -4,7 +4,7 @@ The official CNC Xol-Carriage from: [![ko-fi](docs/images/Ko-fi_smol.png)](https
 <img src='docs/images/Xol-Carriage.2.png' width=220 /><img src='docs/images/Xol-Carriage.5.png' width=220 />
 
 <br/>
-A CNC version of the original Xol-Carriage that can be found in the Xol GitHub repository here:<br/>
+A CNC version of the original Xol-Carriage that can be found in the Xol-Toolhead GitHub repository here:<br/>
 
 * <a href="https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/blob/main/docs/xol_carriage_assembly.md">Base documentation</a>
 * <a href="https://github.com/Armchair-Heavy-Industries/Xol-Toolhead/tree/main/STL/Xol-Carriage">STLs</a>
