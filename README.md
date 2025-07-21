@@ -1,8 +1,7 @@
 # CNC Xol-Carriage
 The official CNC Xol-Carriage from: [![ko-fi](docs/images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC0K) [DW-Tas](https://github.com/DW-Tas)<br/>
 
-<img src='docs/images/Xol-Carriage.2.png' width=220 />
-<img src='docs/images/Xol-Carriage.5.png' width=220 />
+<img src='docs/images/Xol-Carriage.2.png' width=220 /><img src='docs/images/Xol-Carriage.5.png' width=220 />
 
 <br/>
 A CNC version of the original Xol-Carriage that can be found in the Xol GitHub repository here:<br/>
