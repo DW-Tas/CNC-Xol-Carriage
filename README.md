@@ -21,6 +21,9 @@ A CNC version of the original Xol-Carriage that can be found in the Xol-Toolhead
   <dt>Do I need the metal pins and tubes for the belt clips?</dt>
   <dd>Yes. Vendors should either include these with the carriage, or make them easy to source at time of purchase.</dd>
 
+  <dt>Do I need different screws to attach to the MGN9/12 carriage</dt>
+  <dd>Yes. CNC Xol-Carriage is attached with M3x6 SHCS *instead of M3x8 SHCS*</dd>
+
   <dt>Does it work with Beacon/Carto?</dt>
   <dd>Yes. The small piece of aluminium that goes through the "keep out zone" dos not move in relation to the coil and has shown in practice to not impact the sensor.</dd>
 
